@@ -1,2 +1,45 @@
-# 3f83460d-property-management-price-comp
-Stop overpaying for property management vendors and missing hidden deals on every contract renewal. The Property Management Price Comparison and Deal Finder Chrome Extension surfaces real-time pricing discrepancies and negotiation opportunities you're currently leaving on the table.  This Chrome extension automatically compares vendor prices across
+# Property Management Price Comparison and Deal Finder Chrome Extension
+
+> Extension for Property Management
+
+Stop overpaying for property management vendors and missing hidden deals on every contract renewal. The Property Management Price Comparison and Deal Finder Chrome Extension surfaces real-time pricing discrepancies and negotiation opportunities you're currently leaving on the table.
+
+This Chrome extension automatically compares vendor prices...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://gearreviewer7.gumroad.com/l/lmslr)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/dRm4gzeTt4scf448nGcZp24)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://gearreviewer7.gumroad.com/l/lmslr)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
